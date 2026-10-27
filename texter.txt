@@ -1,0 +1,7 @@
+-no hay comando de ejecucion
+-actualizar proyecto para importaciones ES MODULE
+-eliminar body parser de las librerias
+-agregar usuario y apellido como obligatorio
+-eliminar logs (dejar solo los de errores)
+-hay una validacion que siempre da ELSE
+-
